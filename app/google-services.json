@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "110515157049",
+    "firebase_url": "https://futooapp.firebaseio.com",
+    "project_id": "futooapp",
+    "storage_bucket": "futooapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110515157049:android:17adbde206adb126",
+        "android_client_info": {
+          "package_name": "com.example.jayesh123.futooapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110515157049-eg0bj0m6os103k7t4ci6jf4c9ero99rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayesh123.futooapp",
+            "certificate_hash": "03ea0f97def0e876f530260d2c33ca2e04531e72"
+          }
+        },
+        {
+          "client_id": "110515157049-hhf2n82fo4eqi36e3clr8hfcr79lkf85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSC9hqu0rEOgxVUCbFggvgb3jQ4EmLBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110515157049-hhf2n82fo4eqi36e3clr8hfcr79lkf85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
